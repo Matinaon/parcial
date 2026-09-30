@@ -1,0 +1,15 @@
+[
+    {
+    "titulo": "Insomnia",
+    "descripcion": "Desarrollo de un videojuego.",
+    "detalles": "Trabajo para Lab 6"
+    },
+    {
+    "titulo": "Vértigo",
+    "descripcion": "Juego de mesa de habilidad motriz",
+    "detalles": "Trabajo para Lab 7" },
+    {
+    "titulo": "Balance",
+    "descripcion": "App para organizar planes en la ciudad",
+    "detalles": "Trabajo para diseño de interactividad" }
+    ]
